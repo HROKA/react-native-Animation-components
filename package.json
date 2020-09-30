@@ -1,0 +1,53 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "stop": "",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "expo": "^38.0.10",
+    "expo-constants": "^9.1.1",
+    "expo-facebook": "~8.2.1",
+    "expo-secure-store": "~9.0.1",
+    "expo-status-bar": "^1.0.2",
+    "react": "~16.11.0",
+    "react-dom": "~16.11.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-38.0.2.tar.gz",
+    "react-native-gesture-handler": "~1.6.0",
+    "react-native-reanimated": "~1.9.0",
+    "react-native-svg": "^12.1.0",
+    "react-native-vector-icons": "^7.1.0",
+    "react-native-web": "~0.11.7",
+    "react-router-native": "^5.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.6",
+    "babel-eslint": "^10.1.0",
+    "babel-preset-expo": "~8.1.0",
+    "eslint": "^7.9.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-react": "^7.21.2",
+    "eslint-plugin-react-native": "^3.9.1"
+  },
+  "private": true,
+  "version": "1.0.0",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "name": "react-native-Animation-components",
+  "description": "Animation With react native",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HROKA/react-native-Animation-components.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HROKA/react-native-Animation-components/issues"
+  },
+  "homepage": "https://github.com/HROKA/react-native-Animation-components#readme"
+}
